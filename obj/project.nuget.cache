@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/NM0WESvPnhkzGGpVPxmszUKYmNK4u4+OxSsfFB0LyPT1Otgw6EC0n8F/HqZZc7obMMHAbLUgOSQR6s2rQolw==",
+  "success": true,
+  "projectFilePath": "D:\\#1 CodingArea\\C# pattern design\\Pattern-memento\\Pattern-memento\\pattern-memento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

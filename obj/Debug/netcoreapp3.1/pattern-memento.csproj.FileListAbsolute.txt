@@ -1,0 +1,29 @@
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.exe
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.deps.json
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.runtimeconfig.json
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.dll
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.pdb
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.AssemblyInfo.cs
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.dll
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.pdb
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.genruntimeconfig.cache
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.exe
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.deps.json
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.runtimeconfig.json
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.runtimeconfig.dev.json
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.dll
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\pattern-memento.pdb
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csproj.AssemblyReference.cache
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.AssemblyInfoInputs.cache
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.AssemblyInfo.cs
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csproj.CoreCompileInputs.cache
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csproj.CopyComplete
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.dll
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.pdb
+D:\#1 CodingArea\C# pattern design\Pattern-memento\Pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.genruntimeconfig.cache
